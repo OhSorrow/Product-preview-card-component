@@ -33,8 +33,8 @@ As well as making it responsive for small phones, I tried to make it good lookin
 
 ### Links
 
-- Live Site URL: [Product preview card component](https://ohsorrow.github.io/)
-- Solution URL: [Solution URL]()
+- Live Site URL: [Product preview card component](https://ohsorrow.github.io/Product-preview-card-component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-using-html-and-css-gl37WUQHKy)
 
 ### Built with
 
